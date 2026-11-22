@@ -1,0 +1,6 @@
+Ticker,Company_Name,Morningstar_Size,Morningstar_Style,Morningstar_As_Of_Date,Morningstar_Access_Date,Morningstar_Source_URL
+KODK,Eastman Kodak Company,Small,Core,Not shown,2026-11-22,https://www.morningstar.com/stocks/xnys/kodk
+PZZA,"Papa John's International, Inc.",Small,Value,Not shown,2026-11-22,https://www.morningstar.com/stocks/xnas/pzza
+ROOT,"Root, Inc. Class A",Small,Growth,Not shown,2026-11-22,https://www.morningstar.com/stocks/xnas/root
+HOG,"Harley-Davidson, Inc.",Small,Value,Not shown,2026-11-22,https://www.morningstar.com/stocks/xnys/hog
+RRR,"Red Rock Resorts, Inc. Class A",Small,Core,Not shown,2026-11-22,https://www.morningstar.com/stocks/xnas/rrr
