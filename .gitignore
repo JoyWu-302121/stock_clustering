@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+tmp/
+models/*.joblib
+report_assets/
+Editorial_Change_Log.md
+Stock_Clustering_Report_Draft.md
+Stock_Clustering_Final_Report_Tracked_Changes.docx
+scripts/build_language_redline.py
