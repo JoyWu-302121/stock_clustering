@@ -1,0 +1,2 @@
+Ticker,Company_Name,Market_capital,PEG ratio,Data_As_Of_Date,Source_URL,KNN_Size,KNN_Style,KNN_Style_Label,KMeans_Size,KMeans_Style,KMeans_Style_Label,Prediction_Agreement,Already_In_Training_Data,Market_capital_percentile,PEG_ratio_percentile
+ELF,"e.l.f. Beauty, Inc.",6120000000,1.87,2026-11-22,Bloomberg Terminal: ELF US Equity > DES > Profile,Large,Core,Large Core,Large,Core,Large Core,True,False,0.9500430663221361,0.5641688199827735

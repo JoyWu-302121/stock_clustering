@@ -1,0 +1,6 @@
+Ticker,Company_Name,Morningstar_Size,Morningstar_Style,Morningstar_As_Of_Date,Morningstar_Access_Date,Morningstar_Source_URL,Morningstar_Style_Label,Market_capital,PEG ratio,Cluster_ID,KMeans_Size,KMeans_Style,KMeans_Style_Label,Size_Match,Style_Match,Overall_Match
+KODK,Eastman Kodak Company,Small,Core,Not shown,2026-11-22,https://www.morningstar.com/stocks/xnys/kodk,Small Core,841697992.515564,0.060547,1,Small,Value,Small Value,True,False,False
+PZZA,"Papa John's International, Inc.",Small,Value,Not shown,2026-11-22,https://www.morningstar.com/stocks/xnas/pzza,Small Value,637453680.266888,3.705192,3,Small,Growth,Small Growth,True,False,False
+ROOT,"Root, Inc. Class A",Small,Growth,Not shown,2026-11-22,https://www.morningstar.com/stocks/xnas/root,Small Growth,668003207.075226,0.224571,4,Mid,Value,Mid Value,False,False,False
+HOG,"Harley-Davidson, Inc.",Small,Value,Not shown,2026-11-22,https://www.morningstar.com/stocks/xnys/hog,Small Value,3443334296.53168,1.68004,8,Large,Core,Large Core,False,False,False
+RRR,"Red Rock Resorts, Inc. Class A",Small,Core,Not shown,2026-11-22,https://www.morningstar.com/stocks/xnas/rrr,Small Core,5268381537.31691,6.18966,9,Large,Growth,Large Growth,False,False,False

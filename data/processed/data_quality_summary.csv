@@ -1,0 +1,11 @@
+Metric,Value
+Source rows,1958.0
+Unique tickers,1958.0
+Duplicate tickers,0.0
+Missing market capitalization,0.0
+Missing PEG ratio,797.0
+Nonpositive market capitalization,0.0
+Nonpositive PEG ratio,0.0
+Rows excluded from modeling,797.0
+Rows used for modeling,1161.0
+Rows retained (%),59.29519918283963
